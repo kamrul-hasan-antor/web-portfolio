@@ -47,3 +47,29 @@ section{
 .highlight{
     color: rgb(184, 56, 9);
 }
+.single-experience{
+    box-shadow: 10px 10px 50px rgb(82, 82, 184);
+    height: 65%;
+    padding: 2%;
+}
+.experiences-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg, orange, red);
+    border-image-slice: 1;
+    background-color: white;
+}
+#junior{
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    background-color: white;
+}
+footer p{
+    text-align:center;
+    font-size: 13px;
+}
